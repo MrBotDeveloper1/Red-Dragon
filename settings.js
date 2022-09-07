@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = ╔══════════════⦂⦁▹➤
+global.alivemsg = `╔══════════════⦂⦁▹➤
 
 🌹⃟̥̥̥̥̄̄̄̄̄🍃⃝ＨＩ..Ｉ'ＡＭ ＯＮＬＩＮＥ ＮＯＷ🌹⃟̥̥̥̄̄̄̄̄🍃
 
@@ -43,7 +43,7 @@ global.alivemsg = ╔══════════════⦂⦁▹➤
 
 ❯ *BOT අනවශ්‍ය වැඩවලට භාවිතා නොකරන්න.🚫🔞*
 
-❯ *DON`T DISEPENSABLE WORK TO USE BOT🚫🔞*
+❯ *DONT DISEPENSABLE WORK TO USE BOT🚫🔞*
 
 ╠══════════════⦂⦁▹➤
 
